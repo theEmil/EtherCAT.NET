@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
+using System.Text;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Xml.Serialization;
@@ -41,7 +42,7 @@ namespace EtherCAT.NET
             EtherCATInfo etherCatInfo;
             var xmlSerializer = new XmlSerializer(typeof(EtherCATInfo));
 
-            using (StreamReader streamReader = new StreamReader(esiFileName))
+            using (StreamReader streamReader = new StreamReader(esiFileName, Encoding.GetEncoding("ISO-8859-1")))
             {
                 try
                 {
