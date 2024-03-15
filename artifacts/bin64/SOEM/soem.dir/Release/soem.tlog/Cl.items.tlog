@@ -1,0 +1,12 @@
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatbase.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatbase.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatcoe.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatcoe.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatconfig.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatconfig.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatdc.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatdc.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercateoe.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercateoe.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatfoe.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatfoe.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatmain.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatmain.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatprint.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatprint.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem\ethercatsoe.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\ethercatsoe.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32\osal.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\osal.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\nicdrv.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\nicdrv.obj
+C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\oshw.c;C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\SOEM\soem.dir\Release\oshw.obj

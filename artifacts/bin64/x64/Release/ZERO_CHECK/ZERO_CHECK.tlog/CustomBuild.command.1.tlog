@@ -1,0 +1,10 @@
+^C:\USERS\DBB\DESKTOP\GIT\ETHERCAT.NET\ARTIFACTS\BIN64\CMAKEFILES\E5A8DD0513FE2794B1549C09798920AB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DBB/Desktop/git/EtherCAT.NET/native -BC:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SoemWrapper.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

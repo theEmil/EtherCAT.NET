@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SOEM.PInvoke
+build_property.ProjectDir = C:\Users\DBB\Desktop\git\EtherCAT.NET\src\SOEM.PInvoke\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

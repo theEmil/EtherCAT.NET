@@ -1,0 +1,16 @@
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Release\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Release\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Release\EtherCAT.NET.deps.json
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Release\EtherCAT.NET.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.csproj.AssemblyReference.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.Resources.ErrorMessage.resources
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.csproj.GenerateResource.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.AssemblyInfoInputs.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.AssemblyInfo.cs
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.csproj.CoreCompileInputs.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.sourcelink.json
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.csproj.CopyComplete
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\EtherCAT.NET.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\refint\EtherCAT.NET.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Release\ref\EtherCAT.NET.dll

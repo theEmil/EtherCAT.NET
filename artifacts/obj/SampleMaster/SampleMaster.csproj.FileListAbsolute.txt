@@ -1,0 +1,17 @@
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SampleMaster\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SampleMaster\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SampleMaster\SampleMaster.exe
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SampleMaster\SampleMaster.deps.json
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SampleMaster\SampleMaster.runtimeconfig.json
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SampleMaster\SampleMaster.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.csproj.AssemblyReference.cache
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.AssemblyInfoInputs.cache
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.AssemblyInfo.cs
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.csproj.CoreCompileInputs.cache
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.sourcelink.json
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.csproj.CopyComplete
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\refint\SampleMaster.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\SampleMaster.genruntimeconfig.cache
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SampleMaster\ref\SampleMaster.dll

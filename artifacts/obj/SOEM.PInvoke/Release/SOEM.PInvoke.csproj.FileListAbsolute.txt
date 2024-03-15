@@ -1,0 +1,12 @@
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Release\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Release\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Release\SOEM.PInvoke.deps.json
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Release\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\SOEM.PInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\SOEM.PInvoke.AssemblyInfoInputs.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\SOEM.PInvoke.AssemblyInfo.cs
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\SOEM.PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\SOEM.PInvoke.sourcelink.json
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\refint\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Release\ref\SOEM.PInvoke.dll

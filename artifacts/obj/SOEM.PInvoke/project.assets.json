@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {},
+    "net8.0/linux-arm": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\dbb-ee\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0-alpha.9",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dbb-ee\\isci Entwicklung\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj",
+      "projectName": "SOEM.PInvoke",
+      "projectPath": "C:\\Users\\dbb-ee\\isci Entwicklung\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj",
+      "packagesPath": "C:\\Users\\dbb-ee\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dbb-ee\\isci Entwicklung\\EtherCAT.NET\\build\\../artifacts/obj/SOEM.PInvoke\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dbb-ee\\isci Entwicklung\\EtherCAT.NET\\NuGet.Config",
+        "C:\\Users\\dbb-ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "netcoreapp8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "netcoreapp8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-arm": {
+        "#import": []
+      }
+    }
+  }
+}

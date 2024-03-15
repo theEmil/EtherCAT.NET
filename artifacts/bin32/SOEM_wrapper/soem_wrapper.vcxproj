@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{35B27123-AAFA-3288-B8AC-A21ABC63BDD3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>Win32</Platform>
+    <ProjectName>soem_wrapper</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\SOEM_wrapper\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">soem_wrapper.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">soem_wrapper</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\SOEM_wrapper\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">soem_wrapper.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">soem_wrapper</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\wpcap\Include;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;CMAKE_INTDIR="Debug";soem_wrapper_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;CMAKE_INTDIR=\"Debug\";soem_wrapper_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\wpcap\Include;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\wpcap\Include;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\SOEM\Debug\soem.lib;virtDev\Debug\virt_dev.lib;wpcap.lib;Packet.lib;Ws2_32.lib;Winmm.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM/oshw/win32/wpcap/Lib;C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM/oshw/win32/wpcap/Lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32/SOEM_wrapper/Debug/soem_wrapper.lib</ImportLibrary>
+      <ModuleDefinitionFile>C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM_wrapper/exports.def</ModuleDefinitionFile>
+      <ProgramDataBaseFile>C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32/SOEM_wrapper/Debug/soem_wrapper.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\wpcap\Include;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="Release";soem_wrapper_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";soem_wrapper_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\wpcap\Include;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32\wpcap\Include;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\soem;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\osal\win32;C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM\oshw\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\SOEM\Release\soem.lib;virtDev\Release\virt_dev.lib;wpcap.lib;Packet.lib;Ws2_32.lib;Winmm.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM/oshw/win32/wpcap/Lib;C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM/oshw/win32/wpcap/Lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32/SOEM_wrapper/Release/soem_wrapper.lib</ImportLibrary>
+      <ModuleDefinitionFile>C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM_wrapper/exports.def</ModuleDefinitionFile>
+      <ProgramDataBaseFile>C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32/SOEM_wrapper/Release/soem_wrapper.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM_wrapper/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DBB/Desktop/git/EtherCAT.NET/native -BC:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32 --check-stamp-file C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32/SOEM_wrapper/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\SOEM_wrapper\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/DBB/Desktop/git/EtherCAT.NET/native/SOEM_wrapper/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DBB/Desktop/git/EtherCAT.NET/native -BC:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32 --check-stamp-file C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin32/SOEM_wrapper/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\SOEM_wrapper\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\exports.def" />
+    <ClCompile Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\serial.c" />
+    <ClCompile Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\soem_wrapper.c" />
+    <ClInclude Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\serial.h" />
+    <ClInclude Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\soem_wrapper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\ZERO_CHECK.vcxproj">
+      <Project>{9ED837E4-10B6-3F70-8D51-9469B3357FE9}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\SOEM\soem.vcxproj">
+      <Project>{22A08B36-177D-37B4-AA7B-B79F3A8B8A57}</Project>
+      <Name>soem</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin32\SOEM_wrapper\virtDev\virt_dev.vcxproj">
+      <Project>{FA4E73BF-2021-3AD2-8AC8-F43F61E17DED}</Project>
+      <Name>virt_dev</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

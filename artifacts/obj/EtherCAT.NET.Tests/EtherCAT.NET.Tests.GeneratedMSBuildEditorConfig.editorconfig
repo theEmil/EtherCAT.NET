@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EtherCAT.NET.Tests
+build_property.ProjectDir = c:\Users\dbb-ee\Documents\EtherCAT.NET\tests\EtherCAT.NET.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EtherCAT.NET</id>
+    <version>1.0.0-alpha.9</version>
+    <authors>https://github.com/Apollo3zehn</authors>
+    <license type="expression">LGPL-3.0-only</license>
+    <licenseUrl>https://licenses.nuget.org/LGPL-3.0-only</licenseUrl>
+    <projectUrl>https://github.com/Apollo3zehn/EtherCAT.NET</projectUrl>
+    <description>A high-level SOEM-based EtherCAT master with ESI support for Windows and Linux.</description>
+    <copyright>Apollo3zehn</copyright>
+    <tags>SOEM EtherCAT PInvoke CSharp .NETStandard Windows Linux</tags>
+    <repository type="git" url="https://github.com/Apollo3zehn/EtherCAT.NET" commit="50118d34045a1e8fb4ea65c89a42fbb91652517f" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="SOEM.PInvoke" version="1.0.0-alpha.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.5.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Release\EtherCAT.NET.dll" target="lib\net8.0\EtherCAT.NET.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Debug\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Debug\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Debug\SOEM.PInvoke.deps.json
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\Debug\SOEM.PInvoke.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.csproj.AssemblyReference.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.AssemblyInfoInputs.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.AssemblyInfo.cs
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.sourcelink.json
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\Debug\SOEM.PInvoke.dll

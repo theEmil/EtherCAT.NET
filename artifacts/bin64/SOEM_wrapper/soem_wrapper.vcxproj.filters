@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\serial.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\soem_wrapper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\serial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\soem_wrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\native\SOEM_wrapper\exports.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{66757A98-7C36-38E0-872A-335D53A15D6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{735ED76F-EDA4-313D-94AD-0BB6EBDD6252}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

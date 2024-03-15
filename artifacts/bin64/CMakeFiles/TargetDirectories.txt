@@ -1,0 +1,17 @@
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/CMakeFiles/ALL_BUILD.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/CMakeFiles/soem.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/CMakeFiles/ALL_BUILD.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/test/linux/slaveinfo/CMakeFiles/slaveinfo.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/test/linux/slaveinfo/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/test/linux/eepromtool/CMakeFiles/eepromtool.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/test/linux/eepromtool/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/test/linux/simple_test/CMakeFiles/simple_test.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM/test/linux/simple_test/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM_wrapper/CMakeFiles/soem_wrapper.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM_wrapper/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM_wrapper/virtDev/CMakeFiles/virt_dev.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM_wrapper/virtDev/CMakeFiles/INSTALL.dir
+C:/Users/DBB/Desktop/git/EtherCAT.NET/artifacts/bin64/SOEM_wrapper/virtDev/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin64\CMakeFiles\257bba94a785d719d8500afe7f0f7e5c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B404ED59-CF5F-3846-9EE9-EF4F4FE696CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

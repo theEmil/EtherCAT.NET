@@ -1,0 +1,35 @@
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\SOEM.PInvoke.deps.json
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\SOEM.PInvoke.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.csproj.AssemblyReference.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.AssemblyInfoInputs.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.AssemblyInfo.cs
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.sourcelink.json
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\SOEM.PInvoke.deps.json
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\SOEM.PInvoke.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.AssemblyInfoInputs.cache
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.AssemblyInfo.cs
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.sourcelink.json
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\refint\SOEM.PInvoke.dll
+C:\Users\dbb-ee\Documents\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\ref\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\SOEM.PInvoke.deps.json
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\bin\SOEM.PInvoke\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.AssemblyInfoInputs.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.AssemblyInfo.cs
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.sourcelink.json
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\refint\SOEM.PInvoke.dll
+C:\Users\dbb-ee\isci Entwicklung\EtherCAT.NET\artifacts\obj\SOEM.PInvoke\ref\SOEM.PInvoke.dll

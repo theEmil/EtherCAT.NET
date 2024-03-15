@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\tests\\EtherCAT.NET.Tests\\EtherCAT.NET.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\EtherCAT.NET\\EtherCAT.NET.csproj": {
+      "version": "1.0.0-alpha.9",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\EtherCAT.NET\\EtherCAT.NET.csproj",
+        "projectName": "EtherCAT.NET",
+        "projectPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\EtherCAT.NET\\EtherCAT.NET.csproj",
+        "packagesPath": "C:\\Users\\dbb-ee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\build\\../artifacts/obj/EtherCAT.NET\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\NuGet.Config",
+          "C:\\Users\\dbb-ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj": {
+                "projectPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj": {
+      "version": "1.0.0-alpha.9",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj",
+        "projectName": "SOEM.PInvoke",
+        "projectPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\SOEM.PInvoke\\SOEM.PInvoke.csproj",
+        "packagesPath": "C:\\Users\\dbb-ee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\build\\../artifacts/obj/SOEM.PInvoke\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\NuGet.Config",
+          "C:\\Users\\dbb-ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\tests\\EtherCAT.NET.Tests\\EtherCAT.NET.Tests.csproj": {
+      "version": "1.0.0-alpha.9",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\tests\\EtherCAT.NET.Tests\\EtherCAT.NET.Tests.csproj",
+        "projectName": "EtherCAT.NET.Tests",
+        "projectPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\tests\\EtherCAT.NET.Tests\\EtherCAT.NET.Tests.csproj",
+        "packagesPath": "C:\\Users\\dbb-ee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\build\\../artifacts/obj/EtherCAT.NET.Tests\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\NuGet.Config",
+          "C:\\Users\\dbb-ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\EtherCAT.NET\\EtherCAT.NET.csproj": {
+                "projectPath": "C:\\Users\\dbb-ee\\Documents\\EtherCAT.NET\\src\\EtherCAT.NET\\EtherCAT.NET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Appveyor.TestLogger": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.DotNet.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Debug\runtimes\win-x86\native\soem_wrapper.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Debug\runtimes\win-x64\native\soem_wrapper.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Debug\EtherCAT.NET.deps.json
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\bin\EtherCAT.NET\Debug\EtherCAT.NET.dll
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.csproj.AssemblyReference.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.Resources.ErrorMessage.resources
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.csproj.GenerateResource.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.AssemblyInfoInputs.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.AssemblyInfo.cs
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.csproj.CoreCompileInputs.cache
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.sourcelink.json
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.349D7220.Up2Date
+C:\Users\DBB\Desktop\git\EtherCAT.NET\artifacts\obj\EtherCAT.NET\Debug\EtherCAT.NET.dll
